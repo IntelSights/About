@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/IntelSights/About/main/img/IntelSights.png" alt="IntelSigths" width="250" />
 </p>
 <br />
-<br />
 <h1 align="center">IntelSights</h1>
 
 IntelSights, Cyber Threat Intelligence Organization, This project, which was first laid by [@EyupErgin](https://github.com/EyupErgin) in 2020, has been fully implemented in 2021. IntelSigths project, including Turkey focused in diameter International 'Intelligence', 'Data Collection' and 'Analysis' projects on producing software to offer this offer was presented to the public as open and for the benefit of the people.
