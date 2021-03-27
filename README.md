@@ -3,11 +3,9 @@
 </p>
 <br />
 <br />
-<h1 align="center">TurkOsint</h1>
+<h1 align="center">IntelSights</h1>
 
-TurkOsint, İstihbarat ve Osint Topluluğu. İlk olarak [@EyupErgin](https://github.com/EyupErgin) tarafından 2020 yılında temelleri atılan bu proje 2021 yılında tam anlamıyla hayata geçti. 
-TurkOsint projesi, Türkiye odaklı olmak üzere Uluslararası çapta 'İstihbarat', 'Bilgi Toplama' ve 'Analiz' üzerine yazılımsal projeler üreterek bunları halka açık olarak kullanıma sunmak ve insanların faydalanması için oluşturuldu. 
-
+IntelSights, Cyber Threat Intelligence Organization, This project, which was first laid by [@EyupErgin](https://github.com/EyupErgin) in 2020, has been fully implemented in 2021. IntelSigths project, including Turkey focused in diameter International 'Intelligence', 'Data Collection' and 'Analysis' projects on producing software to offer this offer was presented to the public as open and for the benefit of the people.
 <br />
 
 
