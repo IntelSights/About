@@ -9,27 +9,25 @@ IntelSights, Cyber Threat Intelligence Organization, This project, which was fir
 <br />
 
 
-<h2 align="center">Misyon</h2>
-Kişilerin veya Kurumların ücretli olarak sunulan yazılım projelerinin aksine insanlık ve özgür kaynak için açık kaynaklı bir şekilde sunarak insanlara ve bu alanda yapılan görevlere yardımcı olmak için yazılımlar geliştirmek.
-
+<h2 align="center">Mission</h2>
+Unlike the paid software projects of individuals or institutions, to develop software to help people and the tasks done in this field by presenting them in an open source way for humanity and free resources.
 <br />
 
 
-<h2 align="center">Lisans ve Kullanım</h2>
-<h3 align="center">Lisans</h3>
+<h2 align="center">Licence and Using</h2>
+<h3 align="center">Licence</h3>
 
-Yazdığımız programları tamamen açık kaynaklı olarak yayımlayacağız. Bunun için ise "Açık" ve "Özgür" felsefesini benimseyerek GPL 3.0 kullanıyoruz. Lisans detaylarına [buradan](https://github.com/TurkOsint/About/blob/main/LICENSE) ulaşabilirsiniz. 
+We will publish the programs we have written as completely open source. For this, we are using GPL 3.0, adopting the philosophy of "Open" and "Free". You can find license details [here](https://github.com/IntelSights/About/blob/main/LICENSE). 
+<br />.
+
+<h3 align="center">Using</h3>
+
+Taking the codes we wrote as IntelSights as an example, etc. However, we do not take any responsibility for the misuse of the programs we write for illegal and personal purposes. We also do not recommend using it.
+<br />
 <br />
 
-<h3 align="center">Kullanım</h3>
-
-TurkOsint olarak yazdığımız kodların örnek olarak alınması vb. konularda bir sorun görmüyoruz ancak, Yazdığımız programların legal olmayan yollarda ve kişisel amaçlarla kötüye kullanımında sorumluluk kabul etmiyoruz. Kullanılmasını da önermiyoruz.
-
-<br />
-<br />
-
-<h2 align="center">Ekibimiz ve Sponsorlarımız</h2>
-<h3 align="center">Ekibimiz</h3>
+<h2 align="center">Team and Sponsor's</h2>
+<h3 align="center">Teams</h3>
 
 - [@EyupErgin](https://github.com/EyupErgin)
 - [@AdilSoybali](https://github.com/adilsoybali)
